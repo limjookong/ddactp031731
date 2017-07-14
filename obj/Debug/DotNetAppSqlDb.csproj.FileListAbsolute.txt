@@ -1,0 +1,340 @@
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\ApplicationInsights.config
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\csc.exe
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\csc.exe.config
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\csc.rsp
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\csi.exe
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\csi.rsp
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\System.AppContext.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\vbc.exe
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\vbc.exe.config
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\vbc.rsp
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll.config
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\DotNetAppSqlDb.pdb
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Antlr3.Runtime.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\EntityFramework.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\EntityFramework.SqlServer.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.Web.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Newtonsoft.Json.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Helpers.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Mvc.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Optimization.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Razor.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.WebPages.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\WebGrease.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\EntityFramework.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\EntityFramework.SqlServer.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Helpers.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Mvc.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Optimization.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Razor.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.WebPages.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Antlr3.Runtime.pdb
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Newtonsoft.Json.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.Web.xml
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.dll
+C:\Users\Bo\Desktop\New folder (9)\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.pdb
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\ApplicationInsights.config
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\csc.exe
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\csc.exe.config
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\csc.rsp
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\csi.exe
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\csi.rsp
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\System.AppContext.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\vbc.exe
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\vbc.exe.config
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\vbc.rsp
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll.config
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\DotNetAppSqlDb.pdb
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Antlr3.Runtime.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\EntityFramework.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\EntityFramework.SqlServer.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.Web.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Newtonsoft.Json.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Helpers.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Mvc.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Optimization.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Razor.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.WebPages.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\WebGrease.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\EntityFramework.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\EntityFramework.SqlServer.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Helpers.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Mvc.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Optimization.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.Razor.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.WebPages.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Antlr3.Runtime.pdb
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Newtonsoft.Json.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.AI.Web.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csprojResolveAssemblyReference.cache
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.pdb
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Data.Edm.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Data.OData.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Owin.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Owin.Security.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Owin.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Spatial.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Data.Edm.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Data.OData.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Owin.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Owin.Security.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\System.Spatial.xml
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\de\System.Spatial.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\es\System.Spatial.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\fr\System.Spatial.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\it\System.Spatial.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\ja\System.Spatial.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\ko\System.Spatial.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\ru\System.Spatial.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Xuan\Desktop\dotnet-sqldb-tutorial-master\DotNetAppSqlDb\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\ApplicationInsights.config
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\csc.exe
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\csc.exe.config
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\csc.rsp
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\csi.exe
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\csi.rsp
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\System.AppContext.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\vbc.exe
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\vbc.exe.config
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\vbc.rsp
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll.config
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\DotNetAppSqlDb.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\DotNetAppSqlDb.pdb
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Antlr3.Runtime.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\EntityFramework.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\EntityFramework.SqlServer.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.AI.Web.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Data.Edm.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Data.OData.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Owin.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Owin.Security.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Newtonsoft.Json.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Owin.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Spatial.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Web.Helpers.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Web.Mvc.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Web.Optimization.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Web.Razor.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Web.WebPages.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\WebGrease.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\EntityFramework.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\EntityFramework.SqlServer.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Data.Edm.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Data.OData.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Owin.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Owin.Security.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Spatial.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Web.Helpers.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Web.Mvc.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Web.Optimization.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Web.Razor.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Web.WebPages.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Antlr3.Runtime.pdb
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Newtonsoft.Json.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\Microsoft.AI.Web.xml
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\de\System.Spatial.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\es\System.Spatial.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\fr\System.Spatial.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\it\System.Spatial.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\ja\System.Spatial.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\ko\System.Spatial.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\ru\System.Spatial.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csprojResolveAssemblyReference.cache
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.dll
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.pdb
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.Migrations.InitialCreate.resources
+C:\Users\Xuan\Documents\dotnet-sqldb-tutorial-master-jeremy\DotNetAppSqlDb\obj\Debug\DotNetAppSqlDb.csproj.GenerateResource.Cache
